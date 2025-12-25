@@ -6,7 +6,7 @@ Actively looking for **Backend / Full-Stack roles**
 
 📧 Email: sutrakarrajeev22@gmail.com  
 🔗 Portfolio: https://your-portfolio-link  
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
+💼 LinkedIn: https://www.linkedin.com/in/rajeev-sutrakar-676406324
 
 ## 📊 GitHub Stats
 ![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryarajeev000&show_icons=true&theme=tokyonight)
